@@ -1,0 +1,47 @@
+.nav-link
+{
+    color: #000;
+    font-size: 18px;
+}
+.nav-item.vertical{
+	border-left: 2px solid black;
+}
+.nav-link:hover
+{
+    color:#008000;
+}
+.navbar-brand{
+	margin-right: auto;
+	margin-left: 40px;
+}
+.cog-logo{
+	max-width:220px;
+	width:100%;
+}
+.text-large{
+	font-size: 28px;
+}
+.meganav{
+	font-size:20px;
+	font-weight:400;
+	line-height:20px;
+	overflow-wrap:break-word;
+	padding-bottom:20px;
+	padding-left :20px;
+	padding-right :40px;
+	padding-top :20px;
+}
+.primary-nav
+{
+    list-style-type: circle;
+}
+.seconday-nav .navbar{
+	list-style-type: none;
+}
+.seconday-nav .navbar .navbar-item{
+	margin-right: 10px;
+}
+.dropdown-toggle:hover, .dropdown-menu a{
+	color: white;
+	background-color: rgb(0, 51, 160);
+}
